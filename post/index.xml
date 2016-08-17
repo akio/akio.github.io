@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on akio.github.io</title>
+    <link>https://akio.github.io/post/</link>
+    <description>Recent content in Posts on akio.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <copyright>Copyright (c) 2016, akio All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 16 Aug 2016 23:30:00 +0900</lastBuildDate>
+    <atom:link href="https://akio.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub Pages &#43; Hugo &#43; Werckerでブログ構築</title>
+      <link>https://akio.github.io/post/first-post/</link>
+      <pubDate>Tue, 16 Aug 2016 23:30:00 +0900</pubDate>
+      
+      <guid>https://akio.github.io/post/first-post/</guid>
+      <description>
+
+&lt;h1 id=&#34;仕組み&#34;&gt;仕組み&lt;/h1&gt;
+
+&lt;p&gt;GitHub Pages + Hugo + Wercker によるブログを構築するテスト。
+まだあちこちデフォルト設定のままですが、とりあえず公開できるところまで。
+スタイルは&lt;a href=&#34;https://github.com/gizak/nofancy&#34;&gt;nofancy&lt;/a&gt;を少し修正して使っています。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
