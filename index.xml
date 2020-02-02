@@ -1,29 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>akio.github.io</title>
-    <link>https://akio.github.io/</link>
+    <link>/</link>
     <description>Recent content on akio.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-JP</language>
-    <copyright>Copyright (c) 2016, akio All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 16 Aug 2016 23:30:00 +0900</lastBuildDate>
-    <atom:link href="https://akio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 02 Feb 2020 08:47:11 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>GitHub Pages &#43; Hugo &#43; Werckerでブログ構築</title>
-      <link>https://akio.github.io/post/first-post/</link>
-      <pubDate>Tue, 16 Aug 2016 23:30:00 +0900</pubDate>
+      <title>Test Post</title>
+      <link>/hoge/</link>
+      <pubDate>Sun, 02 Feb 2020 08:47:11 +0100</pubDate>
       
-      <guid>https://akio.github.io/post/first-post/</guid>
-      <description>
-
-&lt;h1 id=&#34;仕組み&#34;&gt;仕組み&lt;/h1&gt;
-
-&lt;p&gt;GitHub Pages + Hugo + Wercker によるブログを構築するテスト。
-まだあちこちデフォルト設定のままですが、とりあえず公開できるところまで。
-スタイルは&lt;a href=&#34;https://github.com/gizak/nofancy&#34;&gt;nofancy&lt;/a&gt;を少し修正して使っています。&lt;/p&gt;
-</description>
+      <guid>/hoge/</guid>
+      <description>This is a test.
+これはテストです。</description>
+    </item>
+    
+    <item>
+      <title>2020年</title>
+      <link>/posts/2020-02-02_first-post/</link>
+      <pubDate>Sun, 02 Feb 2020 02:02:02 +0900</pubDate>
+      
+      <guid>/posts/2020-02-02_first-post/</guid>
+      <description>3年間の米国赴任が終わりシリコンバレーの郊外っぽい雰囲気から一転して大都会東京の中心で働くことになった2020年、心機一転勉強などの記録をつけていきたい。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>hoge</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>hoge</description>
     </item>
     
   </channel>
